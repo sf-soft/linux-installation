@@ -7,7 +7,12 @@ curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/upd
 
 ## Nginx
 ```
-curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/nginx.sh | sudo -E bash -
+curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/server/nginx.sh | sudo -E bash -
+```
+
+## Lets Encrypt CertBot
+```
+curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/server/lets-encrypt-certbot.sh | sudo -E bash -
 ```
 
 ## Docker
@@ -19,18 +24,5 @@ curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/ins
 ```
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node11.sh | sudo -E bash -
 ```
+(for other version's)[https://github.com/sf-soft/linux-installation/blob/master/install/node/README.md]
 
-## NodeJS 10
-```
-curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node10.sh | sudo -E bash -
-```
-
-## NodeJS 9
-```
-curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node9.sh | sudo -E bash -
-```
-
-## Lets Encrypt CertBot
-```
-curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/lets-encrypt-certbot.sh | sudo -E bash -
-```
