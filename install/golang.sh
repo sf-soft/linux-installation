@@ -4,7 +4,9 @@ cd golang-temp
 tar xzf ../go1.12.1.linux-amd64.tar.gz 
 mv go /usr/local
 echo "export GOROOT=/usr/local/go" >> ~/.profile
+source ~/.profile
 echo "export GOPATH=$HOME/go" >> ~/.profile
+source ~/.profile
 echo "export PATH=$GOPATH/bin:$GOROOT/bin:$PATH" >> ~/.profile
 source ~/.profile
 go version
