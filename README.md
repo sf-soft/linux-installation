@@ -20,6 +20,11 @@ curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/ins
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/docker.sh | sudo -E bash -
 ```
 
+## GoLang
+```
+curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/golang.sh | sudo -E bash -
+```
+
 ## NodeJS 11
 ```
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node11.sh | sudo -E bash -
