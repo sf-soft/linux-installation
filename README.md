@@ -24,5 +24,5 @@ curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/ins
 ```
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node11.sh | sudo -E bash -
 ```
-(for other version's)[https://github.com/sf-soft/linux-installation/blob/master/install/node/README.md]
+[for other version's click here ](https://github.com/sf-soft/linux-installation/blob/master/install/node/README.md)
 
