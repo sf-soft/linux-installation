@@ -1,5 +1,10 @@
 # NodeJS-installation
 
+## NodeJS 12
+```
+curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node/node12.sh | sudo -E bash -
+```
+
 ## NodeJS 11
 ```
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node/node11.sh | sudo -E bash -

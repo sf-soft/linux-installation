@@ -25,9 +25,9 @@ curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/ins
 curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/golang.sh | sudo -E bash -
 ```
 
-## NodeJS 11
+## NodeJS 12
 ```
-curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node11.sh | sudo -E bash -
+curl -sL https://raw.githubusercontent.com/sf-soft/linux-installation/master/install/node12.sh | sudo -E bash -
 ```
 [for other version's click here ](https://github.com/sf-soft/linux-installation/blob/master/install/node/README.md)
 
